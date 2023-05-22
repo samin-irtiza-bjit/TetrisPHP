@@ -1,6 +1,6 @@
 <?php
 $username = "root";
-$password = "";
+$password = "root";
 $dbname = "tetris";
 // Create connection
 $conn = mysqli_connect("localhost", $username, $password, $dbname);
