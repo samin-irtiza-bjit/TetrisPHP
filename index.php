@@ -95,7 +95,7 @@
     <div class="main">
     <div class="greydiv">
         <h1>
-            Welcome to BJIT
+            Welcome to Tetris
         </h1>
         <?php
         if ($_SESSION["loggedin"]){ ?>
